@@ -1,10 +1,12 @@
+Co do kupienia:
+
 4x śmigła
 4x silniki
-1x pakiet lipol
 1x ładowarka do pakietu
 1x stabilizator
-1x rpi
-1x http://botland.com.pl/moduly-rozszerzajace-raspberry-pi/1613-raspberry-pi-camera-hd-kamera-dla-raspberry-pi.html
+1x Kamera -> http://botland.com.pl/moduly-rozszerzajace-raspberry-pi/1613-raspberry-pi-camera-hd-kamera-dla-raspberry-pi.html
 4x sterownik silnika
-1x http://botland.com.pl/akcesoria-raspberry-pi/1742-plytka-prototypowa-raspberry-pi.html
-jakieś materiały na konstrukcję
+1x Płytka prototypowa -> http://botland.com.pl/akcesoria-raspberry-pi/1742-plytka-prototypowa-raspberry-pi.html
+1x ArduPilot -> http://nettigo.pl/products/435
+1x LiPol 3S 11.1V -> http://botland.com.pl/content/39-zestawienie-akumulatorow-li-pol#trzyes
+1x ATmega 328 -> http://botland.com.pl/avr-tht-dip/1984-atmega328p-pu-dip-bootlader-arduino.html
